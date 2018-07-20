@@ -1,4 +1,4 @@
-# Apostille-library
+# Typescript-Catapult
 <p align="center">
   <!-- <img alt="BetterCap" src="https://apostille.io/apostille.png" height="200" /> -->
   <p align="center">
